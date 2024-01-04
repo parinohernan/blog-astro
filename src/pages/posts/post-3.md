@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/MarkdownPostLayout.astro
 title: Mi tercera publicación en el blog
 author: hernanpa
 description: "Tuve algunos problemas, pero preguntar en la comunidad me ayudó mucho."
